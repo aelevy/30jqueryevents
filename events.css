@@ -1,0 +1,14 @@
+div {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  display: inline-block;
+  background: #5F6BFF; }
+
+.rotate {
+  transform: rotate(1turn);
+  transition: all 2s ease; }
+
+.hidden {
+  display: none; }
